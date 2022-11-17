@@ -4,10 +4,10 @@
 <h3 align="center"> Self-taught programmer, BSc (Hons) Accounting, ACCA qualification</h3>
 
 
-<style>H1{color:Blue;}</style>
-class SoftwareEngineer:
 
-    def __init__(self):
+    class SoftwareEngineer:
+        def __init__(self):
+            pass
 
 - 🌱 I’m currently learning **System Design**
 - 💬 Ask me about **Data Structures and Algorithms**
