@@ -5,14 +5,18 @@
 ```python
 
 class SoftwareDeveloper:
-    def __init__(self) -> None:
+    def __init__(self):
         self.name = "Costas"
         self.surname = "Soleas"
         self.programmingSkills = { "SQL", "Python", "JavaScript", "HTML", "CSS", "React.js", "ML" }
+        self.financeQualifications = { "BSc (Hons) Accounting", "ACCA Qualification" }
+       
+    def did_you_know(self):
+        print("You only lose when you give up")
 
 
-me = SoftwareEngineer()
-me.say_hi()
+me = SoftwareDeveloper()
+me.did_you_know()
 ```
 
 <p align="left">
