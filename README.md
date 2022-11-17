@@ -3,7 +3,13 @@
 <h1 align="center">Hi 👋, I'm Costas Soleas</h1>
 <h3 align="center"> Self-taught programmer, BSc (Hons) Accounting, ACCA qualification</h3>
 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
+
+class SoftwareEngineer:
+
+    def __init__(self):
 
 - 🌱 I’m currently learning **System Design**
 - 💬 Ask me about **Data Structures and Algorithms**
