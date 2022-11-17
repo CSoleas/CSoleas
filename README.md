@@ -11,27 +11,27 @@ class SoftwareDeveloper:
         self.programmingLanguagesTools = { "Python", "JavaScript", "HTML", "CSS", "React.js", "SQL", }
         self.financeQualifications = { "BSc (Hons) Accounting", "ACCA Qualification" }
        
+       
+class Movies:
     def movie_Plot(self, movie):
         if movie == "Memento (2000)":
             print("A man with short-term memory loss attempts to..")
         elif movie == "Inception (2010)":
             print("A man sleeps to enter a dream state/reality and..")
         else:
-            return
-        me.movie_Plot(movie)
+            return 
+        Movies.movie_Plot(movie)
 
 
 
 me = SoftwareDeveloper()
-me.movie_Plot("Memento (2000)")
-me.movie_Plot("Inception (2010)")
+Movies.movie_Plot("Memento (2000)")
+Movies.movie_Plot("Inception (2010)")
 
 ```
 
 <p align="left">
 </p>
-
-<p></p>
 
 
 
