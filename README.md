@@ -5,11 +5,8 @@
 
 
 - 🌱 I’m currently learning **System Design**
-
 - 💬 Ask me about **Data Structures and Algorithms**
-
 - 📫 How to reach me **c.soleas@outlook.com**
-
 - ⚡ Fun fact **Data addict**
 
 <p align="left">
