@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)]
+[![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
 
 <h1 align="center">Hi 👋, I'm Costas Soleas</h1>
 <h3 align="center">I'm an Accounting Major (Hons) with an ACCA qualification and a self-taught programmer.</h3>
