@@ -8,6 +8,8 @@
     class SoftwareDeveloper:
         def __init__(self) -> None:
             pass
+            
+<span class="pl-k">class</span>
 
 - 🌱 I’m currently learning **System Design**
 - 💬 Ask me about **Data Structures and Algorithms**
