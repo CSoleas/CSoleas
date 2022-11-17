@@ -5,9 +5,9 @@
 
 
 
-class SoftwareDeveloper:
-    def __init__(self) -> None:
-        pass
+    class SoftwareDeveloper:
+        def __init__(self) -> None:
+            pass
 
 - 🌱 I’m currently learning **System Design**
 - 💬 Ask me about **Data Structures and Algorithms**
