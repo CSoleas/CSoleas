@@ -3,10 +3,8 @@
 <h1 align="center">Hi 👋, I'm Costas Soleas</h1>
 <h3 align="center"> Self-taught programmer, BSc (Hons) Accounting, ACCA qualification</h3>
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
-
+<style>H1{color:Blue;}</style>
 class SoftwareEngineer:
 
     def __init__(self):
