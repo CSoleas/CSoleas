@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Costas Soleas</h1>
 <h3 align="center">I'm an Accounting Major (Hons) with an ACCA qualification and a self-taught programmer.</h3>
 
-<img align="right" alt="Coding" width="400" src="">
 
 - 🌱 I’m currently learning **System Design**
 
