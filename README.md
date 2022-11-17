@@ -17,7 +17,7 @@ class Movies:
         if movie == "Memento (2000)":
             print("A man with short-term memory loss attempts to..")
         elif movie == "Inception (2010)":
-            print("A man sleeps to enter a dream state/reality and..")
+            print("A man sleeps to enter another dream state/reality and..")
         else:
             return 
         Movies.movie_Plot(movie)
