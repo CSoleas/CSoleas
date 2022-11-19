@@ -23,8 +23,8 @@ class Movies:
 
 
 me = SoftwareDeveloper()
-Movies.movie_Plot("Memento (2000)")
-Movies.movie_Plot("Inception (2010)")
+Movies.plot("Memento (2000)")
+Movies.plot("Inception (2010)")
 
 ```
 
