@@ -11,7 +11,7 @@ class SoftwareDeveloper:
        
        
 class Movies:
-    def movie_Plot(self, movie):
+    def plot(self, movie):
         if movie == "Memento (2000)":
             print("A man with short-term memory loss attempts to..")
         elif movie == "Inception (2010)":
