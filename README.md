@@ -8,23 +8,8 @@ class SoftwareDeveloper:
         self.surname = "Soleas"
         self.programmingLanguagesTools = { "Python", "JavaScript", "HTML", "CSS", "React.js", "SQL", }
         self.financeQualifications = { "BSc (Hons) Accounting", "ACCA Qualification" }
-       
-       
-class Movies:
-    def plot(self, movie):
-        if movie == "Memento (2000)":
-            print("A man with short-term memory loss attempts to..")
-        elif movie == "Inception (2010)":
-            print("A man sleeps to enter a dream state/reality and..")
-        else:
-            return 
-        Movies.movie_Plot(movie)
-
-
 
 me = SoftwareDeveloper()
-Movies.plot("Memento (2000)")
-Movies.plot("Inception (2010)")
 
 ```
 
