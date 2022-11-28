@@ -19,4 +19,3 @@ me = SoftwareDeveloper()
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csoleas&layout=compact" alt="csoleas" /></p>
-
