@@ -1,16 +1,9 @@
 
-```python
 
-class SoftwareDeveloper:
-    def __init__(self):
-        self.name = "Costas"
-        self.surname = "Soleas"
-        self.programmingLanguagesTools = { "Python", "JavaScript", "HTML", "CSS", "React.js", "SQL", }
-        self.financeQualifications = { "BSc (Hons) Accounting", "ACCA Qualification" }
+## 👨‍💻 About Me  
 
-me = SoftwareDeveloper()
+Full-stack developer with ACCA-backed financial expertise.  
 
-```
 
 <p align="left">
 </p>
